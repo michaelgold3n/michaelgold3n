@@ -12,5 +12,3 @@ Previously, built AI detection software, did mathematics and computer science at
 
 ---
 [![](https://visitcount.itsvg.in/api?id=michaelgold3n&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
