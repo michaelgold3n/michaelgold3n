@@ -13,6 +13,3 @@ Previously, built AI detection software, studied mathematics and computer scienc
 ---
 [![](https://visitcount.itsvg.in/api?id=michaelgold3n&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--- GitHub  -->
-
-
-[![Michael Golden's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
