@@ -15,3 +15,4 @@ Previously: built AI detection software, studied mathematics and computer scienc
 <!--- GitHub  -->
 
  [![Michael Golden's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelgold3n)](https://github.com/)
+ 
