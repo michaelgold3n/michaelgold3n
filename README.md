@@ -5,7 +5,7 @@ Currently: working on AI workflow automations for manufacturers.
 
 Previously, built AI detection software, studied mathematics and computer science at UCSD, and undergraduate AI research at the UCSD Jacobs School of Engineering.
 
-# 📊 GitHub Stats:
+<!--- # 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=michaelgold3n&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelgold3n&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgold3n&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
