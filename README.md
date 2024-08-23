@@ -15,4 +15,4 @@ Previously, built AI detection software, studied mathematics and computer scienc
 <!--- GitHub  -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael Golden's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
