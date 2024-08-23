@@ -13,3 +13,4 @@ Previously, built AI detection software, studied mathematics and computer scienc
 ---
 [![](https://visitcount.itsvg.in/api?id=michaelgold3n&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--- GitHub  -->
+ 
