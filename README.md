@@ -3,7 +3,7 @@
 # Michael Golden
 Currently: working on AI workflow automations for manufacturers. 
 
-Previously: built AI detection software for IntegrityAI, studied mathematics and computer science at UCSD, and undergraduate AI research at the UCSD Jacobs School of Engineering.
+Previously: built AI detection software @ IntegrityAI, studied mathematics and computer science at UCSD, and undergraduate AI research at the UCSD Jacobs School of Engineering.
 
 # 📊 Stats:
 
