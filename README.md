@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Michael Golden
 Currently: working on AI workflow automations for manufacturers. 
 
