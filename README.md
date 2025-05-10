@@ -1,5 +1,5 @@
 # Michael Golden
-Currently: working on AI workflow automations for manufacturers. 
+Currently: conjure CEO. 
 
 Previously: built AI detection software @ IntegrityAI, studied mathematics and computer science at UCSD, and undergraduate AI research at the UCSD Jacobs School of Engineering.
 
