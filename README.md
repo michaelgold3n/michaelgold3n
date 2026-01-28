@@ -1,5 +1,5 @@
 # Michael Golden
-Currently: Conjure CEO. 
+Currently: Wayframe CEO. 
 
 Previously: built AI detection software @ IntegrityAI, studied mathematics and computer science at UCSD, and undergraduate AI research at the UCSD Jacobs School of Engineering.
 
