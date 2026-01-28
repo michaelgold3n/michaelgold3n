@@ -1,7 +1,7 @@
 # Michael Golden
 Currently: Wayframe CEO. 
 
-Previously: built AI detection software @ IntegrityAI, studied mathematics and computer science at UCSD, and undergraduate AI research at the UCSD Jacobs School of Engineering.
+Previously: built AI detection software @ IntegrityAI, studied math-cs at UCSD, and AI research at UCSD
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=michaelgold3n&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
